@@ -72,7 +72,7 @@ Tested a sample cable using manufactured PH crimped wires in an EH cable housing
 # Notes
 <details>
   <summary>R2 NFDB and the Realforce RT1 (Topre numpad)</summary>
-The R2 NFDB may be compatible with the Topre Realforce RT1 numpad (released in 2024), which shares a similar footprint to the predecessor Realforce 23u.
+The R2 NFDB is compatible with the Topre Realforce RT1 numpad (released in 2024), which shares a similar footprint to the predecessor Realforce 23u.
 
 photo tbd
 </details>  
@@ -87,9 +87,10 @@ Norbaforce MKII RF2
 ![NFMKiib](https://i.imgur.com/0RaRg6e.png)
 Norbaforce MKII (slight internal filing was needed)
 ![NFMKIIInside](https://i.imgur.com/2XnP7rR.jpg)
-Norbauer Data Pad
+Norbauer Data Pad and the R1 NFDB
 ![DataPad](https://i.imgur.com/ypJBltZ.jpg)
-Norbauer Data Pad with RT1 pcb and stock controller
+Norbauer Data Pad with RT1 pcb - use R2 NFDB
+![RT1](https://i.imgur.com/QSRFrbK.jpeg)
 </details>
 
 # Special thanks 
