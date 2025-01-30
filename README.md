@@ -90,10 +90,11 @@ Norbaforce MKII (slight internal filing was needed)
 Norbauer Data Pad and the R1 NFDB
 ![DataPad](https://i.imgur.com/ypJBltZ.jpg)
 Norbauer Data Pad with RT1 pcb - use R2 NFDB
-![RT1](https://i.imgur.com/QSRFrbK.jpeg)
+![RT1](https://i.imgur.com/QSRFrbK.jpeg)![RT12](https://i.imgur.com/HHpbOw6.jpeg)
 </details>
 
 # Special thanks 
 * Nekotato: for requesting, testing & driving this project
 * Techbeezin: for test fitting the vast collection of Norbaforces 
-* Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
+* Cipulot: answering various questions regarding Realforce and general electrical questions/advice
+* d0nk: for pre-testing the R2 OEM cabling/pinout on RT1
