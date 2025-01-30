@@ -28,7 +28,7 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 * **Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
 
 ![RF2Pinnout](https://i.imgur.com/rXatLpw.png)
-<br><br><br>
+<br><br>
 
 # Manufacturing
 <details>
