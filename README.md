@@ -69,11 +69,6 @@ Tested a sample cable using manufactured PH crimped wires in an EH cable housing
 ![CableEHToPH](https://i.imgur.com/tfvrSqY.png)
 </details>
 
-# Special thanks 
-* Nekotato: for requesting, testing & driving this project
-* Techbeezin: for test fitting the vast collection of Norbaforces 
-* Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
-
 # Notes
 <details>
   <summary>R2 NFDB and the Realforce RT1 (2024 release)</summary>
@@ -94,3 +89,8 @@ Norbaforce MKII (slight internal filing was needed)
 Norbauer Data Pad
 ![DataPad](https://i.imgur.com/ypJBltZ.jpg)
 </details>
+
+# Special thanks 
+* Nekotato: for requesting, testing & driving this project
+* Techbeezin: for test fitting the vast collection of Norbaforces 
+* Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
