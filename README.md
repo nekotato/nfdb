@@ -23,7 +23,7 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 
 # Version Realforce R2 
   ![RenderRF2](https://i.imgur.com/hHAMaGG.jpg)
-* **Models:** R2 TKL, R2 RGB TKL
+* **Models:** R2 TKL, R2 RGB TKL, RT1 (numpad)
 * **PCB Connector:** LCSC: C69152
 * **Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
 
