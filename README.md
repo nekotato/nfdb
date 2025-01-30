@@ -74,6 +74,12 @@ Tested a sample cable using manufactured PH crimped wires in an EH cable housing
 * Techbeezin: for test fitting the vast collection of Norbaforces 
 * Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
 
+# Notes
+<details>
+  <summary>R2 NFDB and the Realforce RT1 (2024 release)</summary>
+The R2 NFDB may be compatible with the Topre Realforce RT1 numpad (released in 2024), which shares similar footprint to the predecessor Realforce 23u.
+[photo tbd]
+</details>  
 <details>
   <summary>Photos</summary>
 
